@@ -124,7 +124,7 @@ Copyright (c) 2004, 2026, Oracle and/or its affiliates. All rights reserved.
 Enter wallet password:
 [oracle@ms-vm-01 admin]$
 ```
-## 6). List Credential
+## 6). List Credentials
 ```sql
 [oracle@ms-vm-01 admin]$
 [oracle@ms-vm-01 admin]$ mkstore -wrl /u01/app/oracle/admin/$ORACLE_SID/wallet/ -listCredential
